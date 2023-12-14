@@ -6,5 +6,10 @@
         { 
             return a + b; 
         }
+
+        public int Soustraire(int a, int b)
+        {
+            return b - a;
+        }
     }
 }
